@@ -1,14 +1,14 @@
-# AI-Tutor
+# AI-Prof
 An AI-Powered Python Script for Teaching Computer Science Topics
 
-AI Tutor is a Python script that harnesses the power of Mistral's Mixtral-8x7B-Instruct-v0.1 chat model to deliver automated tutoring on various computer science topics. This script generates questions, provides detailed explanations, and allows users to learn interactively.
+AI Prof is a Python script that harnesses the power of Mistral's Mixtral-8x7B-Instruct-v0.1 chat model to deliver automated tutoring on various computer science topics. This script generates questions, provides detailed explanations, and allows users to learn interactively.
 
 ### Requirements
 - Python 3.6 or higher
 - Together AI API key
 
 ### Installation
-- Clone the repository: git clone https://github.com/Manav916/AI-Tutor.git
+- Clone the repository: git clone https://github.com/Manav916/AI-Prof.git
 - Install the required packages: pip install -r requirements.txt
 - Set up the Together AI API key: https://api.together.xyz/settings/api-keys
 - Run the script: python app.py
@@ -22,11 +22,11 @@ How It Works
 
 You can see an example below.
 
-![alt text](https://github.com/Manav916/AI-Tutor/blob/main/Img_1.png)
+![alt text](https://github.com/Manav916/AI-Prof/blob/main/Img_1.png)
 
 Type Doubts if you have any more questions regarding the topic
 
-![alt text](https://github.com/Manav916/AI-Tutor/blob/main/Img_2.png)
+![alt text](https://github.com/Manav916/AI-Prof/blob/main/Img_2.png)
 
 
 ### Contributing
