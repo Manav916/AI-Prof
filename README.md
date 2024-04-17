@@ -10,7 +10,7 @@ AI Prof is a Python script that harnesses the power of Mistral's Mixtral-8x7B-In
 ### Installation
 - Clone the repository: git clone https://github.com/Manav916/AI-Prof.git
 - Install the required packages: pip install -r requirements.txt
-- Set up the Together AI API key: https://api.together.xyz/settings/api-keys
+- Set up the Together AI API key(can get 25$ free in credits on sign up): https://api.together.xyz/settings/api-keys
 - Run the script: python app.py
 
 ### Usage
